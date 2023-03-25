@@ -11,6 +11,12 @@ public class Demo {
         list.add("Sai");
         list.add("Dhanraj");
         System.out.println(list);
+        
+    	ArrayList <String> list1 = new ArrayList <String>();
+    	 list1.add("Nayan Sir");
+         list1.add("Sachin Sir");
+          
+         System.out.println(list1);
 	}
 
 }
